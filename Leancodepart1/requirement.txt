@@ -1,0 +1,6 @@
+Flask>=1.1,<2
+werkzeug>=0.15,<0.16
+itsdangerous==2.0.1
+jinja2==2.11.3
+markupsafe==2.0.1
+flask-restplus==0.13.0
